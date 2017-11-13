@@ -1,5 +1,5 @@
 # TEST FONCTIONNELS
-##Tester chacune des fonctionnalités indépendamment les unes des autres
+## Tester chacune des fonctionnalités indépendamment les unes des autres
 
 Tests transverses aux modules
 Liés à des fonctionnalités
